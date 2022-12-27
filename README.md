@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kburke119&label=Profile%20views&color=0e75b6&style=flat" alt="kburke119" /> </p>
 
-- 🌱 I’m currently learning at the **Rutgers Data Science Bootcamp**
+- 🌱 I’m currently studying at the **Rutgers Data Science Bootcamp**
 
 - 📫 How to reach me **kburke119@gmail.com**
 
