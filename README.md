@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kburke119&label=Profile%20views&color=0e75b6&style=flat" alt="kburke119" /> </p>
 
-- 🌱 I’m currently working towards my **Rutgers Data Science Certificate**
+- 🌱 I’m currently working towards my **Rutgers University Data Science Certificate**
 
 - 📫 How to reach me **kburke119@gmail.com**
 
