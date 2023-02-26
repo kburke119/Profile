@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kevin Burke</h1>
-<h3 align="left">Data Science Bootcamp Student at Rutgers University</h3>
+<h3 align="left">Working on my data science certificate from Rutgers University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kburke119&label=Profile%20views&color=0e75b6&style=flat" alt="kburke119" /> </p>
 
