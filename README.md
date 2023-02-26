@@ -12,11 +12,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 - Python
+
 - Pandas
+
 - Matplotlib
+
 - SQL
+
 - Looker Studio
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kburke119&show_icons=true&locale=en&layout=compact" alt="kburke119" /></p>
-
