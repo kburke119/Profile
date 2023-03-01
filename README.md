@@ -14,11 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - Python
-
 - Pandas
-
 - Matplotlib
-
 - SQL
-
 - Looker Studio
