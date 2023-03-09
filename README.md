@@ -18,3 +18,4 @@
 - Matplotlib
 - SQL
 - Looker Studio
+- Web Scraping
