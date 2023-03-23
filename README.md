@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working towards my **Rutgers University Data Science Certificate**
 
-- 📫 Connect with me through email: **kburke119@gmail.com**
+- 📫 Contact me through email: **kburke119@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
