@@ -17,5 +17,10 @@
 - Pandas
 - Matplotlib
 - SQL
+- PostgreSQL
+- SQLAlchemy
 - Looker Studio
 - Web Scraping
+- NoSQL
+- MongoDB
+- ETL
