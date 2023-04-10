@@ -23,6 +23,5 @@
 - Web Scraping
 - NoSQL
 - MongoDB
-- ETL
 - Plotly
 - Leaflet
