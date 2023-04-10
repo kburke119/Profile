@@ -24,3 +24,5 @@
 - NoSQL
 - MongoDB
 - ETL
+- Plotly
+- Leaflet
